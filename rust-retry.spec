@@ -5,7 +5,7 @@
 %global crate retry
 
 Name:           rust-%{crate}
-Version:        1.0.0
+Version:        2.2.0
 Release:        1%{?dist}
 Summary:        Utilities for retrying operations that can fail
 
